@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+KEY FEATURES
+*Browse & Filter Courses
+*Purchase Courses using Stripe
+*Mark Chapters as Completed or Uncompleted
+*Progress Calculation of each Course
+*Student Dashboard
+*Teacher mode
+*Create new Courses
+*Create new Chapters
+*Stripe Payment Implementation
+*Drag and Drop Feature
+*MySql Database implementation.
+
 ## Getting Started
 
 First, run the development server:
