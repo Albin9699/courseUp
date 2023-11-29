@@ -1,6 +1,6 @@
 
 
-KEY FEATURES <br/>
+## KEY FEATURES <br/>
 *Can be signed in as teacher / student <br/>
 *Browse & Filter Courses <br/>
 *Purchase Courses using Stripe <br/>
