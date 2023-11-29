@@ -1,7 +1,7 @@
 
 
 KEY FEATURES
-*Browse & Filter Courses
+*Browse & Filter Courses <br/>
 *Purchase Courses using Stripe
 *Mark Chapters as Completed or Uncompleted
 *Progress Calculation of each Course
