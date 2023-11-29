@@ -1,17 +1,18 @@
 
 
-KEY FEATURES
+KEY FEATURES <br/>
+*Can be signed in as teacher / student <br/>
 *Browse & Filter Courses <br/>
-*Purchase Courses using Stripe
-*Mark Chapters as Completed or Uncompleted
-*Progress Calculation of each Course
-*Student Dashboard
-*Teacher mode
-*Create new Courses
-*Create new Chapters
-*Stripe Payment Implementation
-*Drag and Drop Feature
-*MySql Database implementation.
+*Purchase Courses using Stripe <br/>
+*Mark Chapters as Completed or Uncompleted <br/>
+*Progress Calculation of each Course <br/>
+*Student Dashboard <br/>
+*Teacher mode <br/>
+*Create new Courses <br/>
+*Create new Chapters <br/> 
+*Stripe Payment Implementation <br/> 
+*Drag and Drop Feature <br/> 
+*MySql Database implementation. <br/>
 
 ## Getting Started
 
